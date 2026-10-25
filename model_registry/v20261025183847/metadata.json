@@ -1,0 +1,7 @@
+{
+  "version": "v20261025183847",
+  "trained_at": "2026-10-25T18:38:47Z",
+  "git_sha": "844cff3286f4e10e46032b17a9d67c05efb4002d",
+  "run_id": "40222190084",
+  "models": ["popularity", "item_item", "als"]
+}
